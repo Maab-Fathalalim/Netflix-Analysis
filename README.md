@@ -1,4 +1,4 @@
-# Netflix-Analysis 🎞
+# Netflix-Analysis🎬
 
 ## About Dataset
 ---

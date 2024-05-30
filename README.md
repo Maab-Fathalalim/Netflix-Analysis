@@ -8,7 +8,7 @@ The Netflix Titles dataset is a comprehensive compilation of movies and TV shows
 [Netflix.csv](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)
 
 ## Tools
-python 
+Jupyter
 
 ## Data cleaning 
 I modified some of the data types, checked for null values   and duplicates, deleted some columns that were not useful in the analysis, and also described the data statistically to explore it initially.
